@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyls
+Version: 0.1.0
+Summary: A simple Python ls implementation
+License: MIT
+Description-Content-Type: text/markdown
+
+# pyls
+
+A simple Python implementation of the `ls` command.
+
+## Installation
+
+To install the package, run:
+
+```sh
+pip install .
